@@ -12,7 +12,7 @@ To install this script specifically, just the <code>user.js</code> file needs to
 # Instructions
 ### 1. Select text you want to make a rule from.
 ![Select Text](https://github.com/erickRecai/Rule-Creator/blob/master/instruction%20images/1-select.png)
-### 2. Press <code>Shift</code> to copy the text to the the script input box.
+### 2. Press <code>Shift</code> to copy the text to the script input box.
 ![Basic Text Replace](https://github.com/erickRecai/Rule-Creator/blob/master/instruction%20images/2-shift.png)
 ### 3. Press <code>Ctrl</code> to generate a rule from the selected text.
 ![Basic Text Replace](https://github.com/erickRecai/Rule-Creator/blob/master/instruction%20images/3-ctrl.png)
