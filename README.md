@@ -5,9 +5,9 @@ Plainly, this script merely just appends some text to the front and end of the s
 
 # Installation
 Requires a browser extension that enables userscripts to install this userscript. I personally use Tampermonkey but other extensions should work as well.  
-Chrome:  
+* Chrome:  
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en  
-Firefox:  
+* Firefox:  
 https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/  
 To install this script specifically, just the <code>user.js</code> file needs to downloaded.
 
